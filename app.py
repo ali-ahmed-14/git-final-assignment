@@ -3,7 +3,7 @@ def main():
     print("Pull Request Practice")
     print("Version 1")
     print("Version 2")
-
+    print("Version 2")
 
 
 
